@@ -22,5 +22,9 @@ A simple chatbot application built using Google's Gemini AI and the Streamlit fr
 3. **Clone the repository:**
 ```bash
 git clone https://github.com/YOUR_GITHUB_USERNAME/Gemini-Streamlit-Chatbot.git
+```
+
 4. **Run the APP:**
+   ```bash
     streamlit run app.py
+   ```
