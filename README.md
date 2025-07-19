@@ -1,5 +1,8 @@
 # Gemini-Streamlit-Chatbot
 
+<img width="1356" height="796" alt="Screenshot 2025-07-19 130600" src="https://github.com/user-attachments/assets/e56a4e76-4779-4003-bd30-b5cba45b089d" />
+
+
 A simple chatbot application built using Google's Gemini AI and the Streamlit framework. This project demonstrates how to easily create a conversational interface leveraging the power of large language models.
 
 ## Features
@@ -17,7 +20,9 @@ A simple chatbot application built using Google's Gemini AI and the Streamlit fr
    * `pip install streamlit google-generativeai python-dotenv`
 
 2. **Create a `.env` file:** Create a file named `.env` in the root directory of the project.  Add your Gemini API key:
-   gemini_api_key=YOUR_API_KEY
+```bash
+   Gemini_api_key="YOUR_API_KEY"
+```
 
 3. **Clone the repository:**
 ```bash
